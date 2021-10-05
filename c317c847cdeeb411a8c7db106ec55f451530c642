@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "34be3235_a93c48b3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1019530
+      },
+      "writtenOn": "2021-10-05T10:44:33Z",
+      "side": 1,
+      "message": "spoko reviewerzy, tylko czemu jestem sam revieverem",
+      "revId": "c317c847cdeeb411a8c7db106ec55f451530c642",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
